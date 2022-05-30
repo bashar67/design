@@ -1,0 +1,79 @@
+user
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+  </svg>
+
+
+  wifi
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
+  </svg>
+
+ signal
+ <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Cellular</title><rect x="416" y="96" width="64" height="320" 
+    rx="8" ry="8" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/><rect x="288" y="176" width="64" height="240" rx="8" 
+    ry="8" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/><rect x="160" y="240" width="64" height="176" rx="8" ry="8"
+     fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/>
+    <rect x="32" y="304" width="64" height="112" rx="8" ry="8" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"/></svg>
+
+batereey
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
+    <title>Battery Full</title><rect x="32" y="144" width="400" height="224" rx="45.7" 
+    ry="45.7" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10"
+     stroke-width="32"/><rect x="85.69" y="198.93" width="292.63" height="114.14" rx="4" ry="4"
+      stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="32"/>
+      <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"
+       stroke-width="32" d="M480 218.67v74.66"/></svg>
+       
+    rocet
+    
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Rocket</title>
+    <path d="M461.81 53.81a4.4 4.4 0 00-3.3-3.39c-54.38-13.3-180 34.09-248.13 102.17a294.9 294.9 0 00-33.09 39.08c-21-1.9-42-.3-59.88
+     7.5-50.49 22.2-65.18 80.18-69.28 105.07a9 9 0 009.8 10.4l81.07-8.9a180.29 180.29 0 001.1 18.3 18.15 18.15 0 005.3 
+     11.09l31.39 31.39a18.15 18.15 0 0011.1 5.3 179.91 179.91 0 0018.19 1.1l-8.89 81a9 9 0 0010.39 9.79c24.9-4 83-18.69 105.07-69.17 
+     7.8-17.9 9.4-38.79 7.6-59.69a293.91 293.91 0 0039.19-33.09c68.38-68 115.47-190.86 102.37-247.95zM298.66 213.67a42.7 42.7 0 1160.38
+      0 42.65 42.65 0 01-60.38 0z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+      <path d="M109.64 352a45.06 45.06 0 00-26.35 12.84C65.67 382.52 64 448 64 448s65.52-1.67 83.15-19.31A44.73 44.73 0 00160 402.32" 
+    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+
+
+    Checkmark Circle
+    
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
+    <title>Checkmark Circle</title><path d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192
+     192-86 192-192z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/>
+     <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" 
+     d="M352 176L217.6 336 160 272"/></svg>
+
+     bookmark
+
+     
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Bookmark</title>
+    <path d="M352 48H160a48 48 0 00-48 48v368l144-128 144 128V96a48 48 0 00-48-48z" 
+    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+
+    calender
+    
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Calendar</title><rect fill="none" 
+    stroke="currentColor" stroke-linejoin="round" stroke-width="32" x="48" y="80" width="416" height="384" rx="48"/>
+    <circle cx="296" cy="232" r="24"/><circle cx="376" cy="232" r="24"/><circle cx="296" cy="312" r="24"/>
+    <circle cx="376" cy="312" r="24"/><circle cx="136" cy="312" r="24"/><circle cx="216" cy="312" r="24"/>
+    <circle cx="136" cy="392" r="24"/><circle cx="216" cy="392" r="24"/><circle cx="296" cy="392" r="24"/>
+    <path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32" stroke-linecap="round"
+     d="M128 48v32M384 48v32"/><path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32" d="M464 160H48"/></svg>
+
+
+location
+
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" 
+viewBox="0 0 512 512"><title>Location</title><path
+ d="M256 48c-79.5 0-144 61.39-144 137 0 87 96 224.87
+  131.25 272.49a15.77 15.77 0 0025.5 0C304 409.89 400
+   272.07 400 185c0-75.61-64.5-137-144-137z" fill="none" 
+   stroke="currentColor" stroke-linecap="round" 
+   stroke-linejoin="round" stroke-width="32"/>
+   <circle cx="256" cy="192" r="48" fill="none" 
+   stroke="currentColor" stroke-linecap="round"
+ stroke-linejoin="round" stroke-width="32"/></svg>
